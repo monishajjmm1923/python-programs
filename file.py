@@ -1,2 +1,0 @@
-def fun(name):
-    print("hi hello how are u"+name);Python is the modern day language. It makes things so simple.Python is the modern day language. It makes things so simple.Python is the modern day language. It makes things so simple.Python is the modern day language. It makes things so simple.Python is the modern day language. It makes things so simple.Python is the modern day language. It makes things so simple.
